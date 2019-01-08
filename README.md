@@ -68,6 +68,8 @@ The two main components of this repository are:
 
 ## Step 5.5: updating the code and notebooks
 
+The workflow is opinionated and assumes that you will use the notebooks as-is from [geosci-labs](https://github.com/lheagy/geosci-labs). You are welcome to open issues and create pull requestsin [geosci-labs](https://github.com/lheagy/geosci-labs) to improve them. You are free forge your own path and tailor the notebooks to your course, in which case, you can ignore this section.  
+
 Before updating, make sure that you have committed and pushed any changes. You can always check if you have any uncomitted changes by running
 ```
 make clean
