@@ -1,4 +1,7 @@
 # geosci-course
+🚨🚨🚨**Note: this readme is a sketch of ideas, it does not function yet** 🚨🚨🚨
+
+
 Resources for running a course using [geosci-labs](https://github.com/lheagy/geosci-labs). 
 
 # why 
