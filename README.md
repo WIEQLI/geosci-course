@@ -50,10 +50,21 @@ The two main components of this repository are:
   that upstream changes will not break during the time you are teaching the course. 
   
 - to then run the notebooks, you can either create the conda environment
-
-  or pip install the requirements in the requirements file
+  ```
+  conda env create
+  ```
+  and activate it
+  ```
+  conda activate ENVIRONMENT_NAME
+  ```
+  (you will need to look inside of the environment.yml file to see the environment name).
+  Alternatively, you can pip install the requirements in the requirements file
   ```
   pip install -r requirements.txt
+  ```
+- Launch Jupyter
+  ```
+  jupyter notebook
   ```
 
 ## Step 4: tailoring it to your course
