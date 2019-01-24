@@ -40,7 +40,7 @@ The two main components of this repository are:
 ## Step 3: specify the notebooks that you want downloaded
 
  - edit the file [`.jupyter-include`](.jupyter-include) to specify which notebooks you want downloaded (see the instructions on [nblibrarian](https://github.com/lheagy/nblibrarian)
- - run nblibratian to setup the repository, this downloads the notebooks you specified in `.jupyter-include`
+- run nblibrarian to setup the repository, this downloads the notebooks you specified in `.jupyter-include`
   ```
   nblibrarian 
   ```
