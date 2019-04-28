@@ -1,6 +1,6 @@
 # geosci-course
 
-Resources for running a course using [geosci-labs](https://github.com/geoscixyz/geosci-labs). To manage the course, we will use [nblibrarian](https://github.com/nblibrarian)
+Resources for running a course using [geosci-labs](https://github.com/geoscixyz/geosci-labs). To manage the course, we will use [nblibrarian](https://github.com/lheagy/nblibrarian)
 
 # why 
 [geosci-labs](https://github.com/geoscixyz/geosci-labs) is a library of notebook-apps for applied geophysics. We hope that they are useful for your courses! 
